@@ -1,0 +1,283 @@
+[
+   {
+      "id": "white_1986_whole",
+      "name": "White et al., 1986 compilation (adult)",
+      "type": "complete",
+      "time": 60,
+      "visualTime": 50,
+      "description": "Whole adult compiled by Varshney et al., 2011; from nemanode",
+      "citation": ["Witvliet et al., 2021", "White et al., 1986", "Albertson & Thomson, 1976"]
+   },
+   {
+      "id":"cook_jarrell_2019_h",
+      "name":"Cook & Jarrel et al., 2019 (adult hermaphrodite)",
+      "type":"complete",
+      "time": 50,
+      "visualTime": 51,
+      "description":"Compilation of anterior and posterior regions (N2U, N2T, JSE) and pharynx (N2T, N2W, JSA)",
+      "citation": ["Cook & Jarrel et al., 2019", "Albertson & Thomson, 1976"]
+   },
+   {
+      "id":"cook_jarrell_2019_m",
+      "name":"Cook & Jarrel et al., 2019 (adult male)",
+      "type":"complete",
+      "time": 50,
+      "visualTime": 52,
+      "description":"Compilation of N2Y and N930",
+      "citation": ["Cook & Jarrel et al., 2019", "Sulston, Albertson & Thomson, 1980"]
+   },
+
+   {
+      "id":"white_1986_jsh",
+      "name":"White et al., 1986, JSH (L4)",
+      "type":"head",
+      "time":40,
+      "visualTime":40,
+      "description":"L4 legacy dataset. Muscles: <i>Zhen lab, 2020</i>; from nemanode",
+      "citation": ["Witvliet et al., 2021", "White et al., 1986"]
+   },
+   {
+      "id":"white_1986_n2u",
+      "name":"White et al., 1986, N2U (adult)",
+      "type":"head",
+      "time":53.5,
+      "visualTime":53.5,
+      "description":"Adult legacy dataset. Muscles: <i>Zhen lab, 2020</i>; from nemanode",
+      "citation": ["Witvliet et al., 2021", "White et al., 1986"]
+   },
+   {
+      "id":"white_1986_jse",
+      "name":"White et al., 1986, JSE (adult)",
+      "type":"tail",
+      "time":60,
+      "visualTime":50,
+      "description":"Adult legacy tail with pre-anal ganglion; from nemanode",
+      "citation": ["Witvliet et al., 2021", "White et al., 1986"]
+   },
+   {
+      "id":"witvliet_2020_1",
+      "name":"Witvliet et al., 2020, Dataset 1 (L1)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":0,
+      "visualTime":0.5,
+      "description":"~0 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "right",
+            "axisIndex": 2,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_2",
+      "name":"Witvliet et al., 2020, Dataset 2 (L1)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":5,
+      "visualTime":4.5,
+      "description":"~5 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "right",
+            "axisIndex": 2,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_3",
+      "name":"Witvliet et al., 2020, Dataset 3 (L1)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":8,
+      "visualTime":8.5,
+      "description":"~8 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "left",
+            "axisIndex": 2,
+            "axisTransform": -1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_4",
+      "name":"Witvliet et al., 2020, Dataset 4 (L1)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":16,
+      "visualTime":15,
+      "description":"~16 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1,
+            "rotation": -45
+         },
+         {
+            "face": "left",
+            "axisIndex": 2,
+            "axisTransform": -1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_5",
+      "name":"Witvliet et al., 2020, Dataset 5 (L2)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":23,
+      "visualTime":23,
+      "description":"~23 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "right",
+            "axisIndex": 2,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "posterior",
+            "axisIndex": 0,
+            "axisTransform": -1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_6",
+      "name":"Witvliet et al., 2020, Dataset 6 (L3)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":27,
+      "visualTime":27,
+      "description":"~27 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "right",
+            "axisIndex": 2,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_7",
+      "name":"Witvliet et al., 2020, Dataset 7 (adult)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":50,
+      "visualTime":45.5,
+      "description":"~50 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "right",
+            "axisIndex": 2,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         }
+      ]
+   },
+   {
+      "id":"witvliet_2020_8",
+      "name":"Witvliet et al., 2020, Dataset 8 (adult)",
+      "skip_gap_junction": true,
+      "type":"head",
+      "time":50,
+      "visualTime":49.5,
+      "description":"~50 hours after birth; from nemanode",
+      "citation": ["Witvliet et al., 2021"],
+      "axes": [
+         {
+            "face": "anterior",
+            "axisIndex": 0,
+            "axisTransform": 1
+         },
+         {
+            "face": "dorsal",
+            "axisIndex": 1,
+            "axisTransform": -1
+         },
+         {
+            "face": "right",
+            "axisIndex": 2,
+            "axisTransform": 1
+         }
+      ]
+   },
+   {
+      "id":"cook_2020",
+      "name":"Cook et al., 2020 combined (adult)",
+      "type":"pharynx",
+      "time": 50,
+      "visualTime": 49.5,
+      "description":"Pharyngeal nvervous system",
+      "citation": ["Cook et al., 2021"]
+   }
+ ]

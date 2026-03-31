@@ -1,0 +1,659 @@
+name,class,type,type_code,category,dv,lr
+ADAL,ADA,interneuron,i,shared,,l
+ADAR,ADA,interneuron,i,shared,,r
+ADEL,ADE,sensory,s,shared,,l
+ADER,ADE,sensory,s,shared,,r
+ADFL,ADF,sensory,s,shared,,l
+ADFR,ADF,sensory,s,shared,,r
+ADLL,ADL,sensory,s,shared,,l
+ADLR,ADL,sensory,s,shared,,r
+AFDL,AFD,sensory,s,shared,,l
+AFDR,AFD,sensory,s,shared,,r
+AIAL,AIA,interneuron,i,shared,,l
+AIAR,AIA,interneuron,i,shared,,r
+AIBL,AIB,interneuron,i,shared,,l
+AIBR,AIB,interneuron,i,shared,,r
+AIML,AIM,interneuron,i,shared,,l
+AIMR,AIM,interneuron,i,shared,,r
+AINL,AIN,interneuron,i,shared,,l
+AINR,AIN,interneuron,i,shared,,r
+AIYL,AIY,interneuron,i,shared,,l
+AIYR,AIY,interneuron,i,shared,,r
+AIZL,AIZ,interneuron,i,shared,,l
+AIZR,AIZ,interneuron,i,shared,,r
+ALA,ALA,interneuron,i,shared,,
+ALML,ALM,sensory,s,shared,,l
+ALMR,ALM,sensory,s,shared,,r
+ALNL,ALN,sensory,s,shared,,l
+ALNR,ALN,sensory,s,shared,,r
+AQR,AQR,sensory,s,shared,,
+AS01,AS,motorneuron,m,shared,,
+AS02,AS,motorneuron,m,shared,,
+AS03,AS,motorneuron,m,shared,,
+AS04,AS,motorneuron,m,shared,,
+AS05,AS,motorneuron,m,shared,,
+AS06,AS,motorneuron,m,shared,,
+AS07,AS,motorneuron,m,shared,,
+AS08,AS,motorneuron,m,shared,,
+AS09,AS,motorneuron,m,shared,,
+AS10,AS,motorneuron,m,shared,,
+AS11,AS,motorneuron,m,shared,,
+ASEL,ASE,sensory,s,shared,,l
+ASER,ASE,sensory,s,shared,,r
+ASGL,ASG,sensory,s,shared,,l
+ASGR,ASG,sensory,s,shared,,r
+ASHL,ASH,sensory,s,shared,,l
+ASHR,ASH,sensory,s,shared,,r
+ASIL,ASI,sensory,s,shared,,l
+ASIR,ASI,sensory,s,shared,,r
+ASJL,ASJ,sensory,s,shared,,l
+ASJR,ASJ,sensory,s,shared,,r
+ASKL,ASK,sensory,s,shared,,l
+ASKR,ASK,sensory,s,shared,,r
+AUAL,AUA,interneuron,i,shared,,l
+AUAR,AUA,interneuron,i,shared,,r
+AVAL,AVA,interneuron,i,shared,,l
+AVAR,AVA,interneuron,i,shared,,r
+AVBL,AVB,interneuron,i,shared,,l
+AVBR,AVB,interneuron,i,shared,,r
+AVDL,AVD,interneuron,i,shared,,l
+AVDR,AVD,interneuron,i,shared,,r
+AVEL,AVE,interneuron,i,shared,,l
+AVER,AVE,interneuron,i,shared,,r
+AVFL,AVF,interneuron,i,shared,,l
+AVFR,AVF,interneuron,i,shared,,r
+AVG,AVG,interneuron,i,shared,,
+AVHL,AVH,interneuron,i,shared,,l
+AVHR,AVH,interneuron,i,shared,,r
+AVJL,AVJ,interneuron,i,shared,,l
+AVJR,AVJ,interneuron,i,shared,,r
+AVKL,AVK,interneuron,i,shared,,l
+AVKR,AVK,interneuron,i,shared,,r
+AVL,AVL,interneuron,i,shared,,
+AVM,AVM,sensory,s,shared,,
+AWAL,AWA,sensory,s,shared,,l
+AWAR,AWA,sensory,s,shared,,r
+AWBL,AWB,sensory,s,shared,,l
+AWBR,AWB,sensory,s,shared,,r
+AWCL,AWC,sensory,s,shared,,l
+AWCR,AWC,sensory,s,shared,,r
+BAGL,BAG,sensory,s,shared,,l
+BAGR,BAG,sensory,s,shared,,r
+BDUL,BDU,interneuron,i,shared,,l
+BDUR,BDU,interneuron,i,shared,,r
+CA01,CA,interneuron,i,male,,
+CA02,CA,interneuron,i,male,,
+CA03,CA,interneuron,i,male,,
+CA04,CA,interneuron,i,male,,
+CA05,CA,interneuron,i,male,,
+CA06,CA,interneuron,i,male,,
+CA07,CA,interneuron,i,male,,
+CA08,CA,interneuron,i,male,,
+CA09,CA,interneuron,i,male,,
+CANL,CAN,neuron,u,shared,,l
+CANR,CAN,neuron,u,shared,,r
+CEMDL,CEM,sensory neuron,s,male,d,l
+CEMDR,CEM,sensory neuron,s,male,d,r
+CEMVL,CEM,sensory neuron,s,male,v,l
+CEMVR,CEM,sensory neuron,s,male,v,r
+CEPDL,CEP,sensory,s,shared,d,l
+CEPDR,CEP,sensory,s,shared,d,r
+CEPVL,CEP,sensory,s,shared,v,l
+CEPVR,CEP,sensory,s,shared,v,r
+CEPshDL,CEPsh,glial,u,shared,d,l
+CEPshDR,CEPsh,glial,u,shared,d,r
+CEPshVL,CEPsh,glial,u,shared,v,l
+CEPshVR,CEPsh,glial,u,shared,v,r
+CP00,CP,interneuron,i,male,,
+CP01,CP,interneuron,i,male,,
+CP02,CP,interneuron,i,male,,
+CP03,CP,interneuron,i,male,,
+CP04,CP,interneuron,i,male,,
+CP05,CP,interneuron,i,male,,
+CP06,CP,interneuron,i,male,,
+CP07,CP,interneuron,i,male,,
+CP08,CP,interneuron,i,male,,
+CP09,CP,interneuron,i,male,,
+DA01,DA,motorneuron,m,shared,,
+DA02,DA,motorneuron,m,shared,,
+DA03,DA,motorneuron,m,shared,,
+DA04,DA,motorneuron,m,shared,,
+DA05,DA,motorneuron,m,shared,,
+DA06,DA,motorneuron,m,shared,,
+DA07,DA,motorneuron,m,shared,,
+DA08,DA,motorneuron,m,shared,,
+DA09,DA,motorneuron,m,shared,,
+DB01,DB,motorneuron,m,shared,,
+DB02,DB,motorneuron,m,shared,,
+DB03,DB,motorneuron,m,shared,,
+DB04,DB,motorneuron,m,shared,,
+DB05,DB,motorneuron,m,shared,,
+DB06,DB,motorneuron,m,shared,,
+DB07,DB,motorneuron,m,shared,,
+DD01,DD,motorneuron,m,shared,,
+DD02,DD,motorneuron,m,shared,,
+DD03,DD,motorneuron,m,shared,,
+DD04,DD,motorneuron,m,shared,,
+DD05,DD,motorneuron,m,shared,,
+DD06,DD,motorneuron,m,shared,,
+DVA,DVA,sensory,s,shared,,
+DVB,DVB,interneuron,i,shared,,
+DVC,DVC,interneuron,i,shared,,
+DVE,DVE,interneuron,i,male,,
+DVF,DVF,interneuron,i,male,,
+DX1,DX1,interneuron,i,male,,
+DX2,DX2,interneuron,i,male,,
+DX3,DX3,interneuron,i,male,,
+EF1,EF1,interneuron,i,male,,
+EF2,EF2,interneuron,i,male,,
+EF3,EF3,interneuron,i,male,,
+FLPL,FLP,sensory,s,shared,,l
+FLPR,FLP,sensory,s,shared,,r
+GLRDL,GLR,glial,u,shared,d,l
+GLRDR,GLR,glial,u,shared,d,r
+GLRL,GLR,glial,u,shared,,l
+GLRR,GLR,glial,u,shared,,r
+GLRVL,GLR,glial,u,shared,v,l
+GLRVR,GLR,glial,u,shared,v,r
+HOA,HOA,sensory neuron,s,male,,
+HOB,HOB,sensory neuron,s,male,,
+HSNL,HSN,motorneuron,m,hermaphrodite,,l
+HSNR,HSN,motorneuron,m,hermaphrodite,,r
+I1L,I1,interneuron,i,pharynx,,l
+I1R,I1,interneuron,i,pharynx,,r
+I2L,I2,interneuron,i,pharynx,,l
+I2R,I2,interneuron,i,pharynx,,r
+I3,I3,interneuron,i,pharynx,,
+I4,I4,interneuron,i,pharynx,,
+I5,I5,interneuron,i,pharynx,,
+I6,I6,interneuron,i,pharynx,,
+IL1DL,IL1,sensory,s,shared,d,l
+IL1DR,IL1,sensory,s,shared,d,r
+IL1L,IL1,sensory,s,shared,,l
+IL1R,IL1,sensory,s,shared,,r
+IL1VL,IL1,sensory,s,shared,v,l
+IL1VR,IL1,sensory,s,shared,v,r
+IL2DL,IL2,sensory,s,shared,d,l
+IL2DR,IL2,sensory,s,shared,d,r
+IL2L,IL2,sensory,s,shared,,l
+IL2R,IL2,sensory,s,shared,,r
+IL2VL,IL2,sensory,s,shared,v,l
+IL2VR,IL2,sensory,s,shared,v,r
+LUAL,LUA,interneuron,i,shared,,l
+LUAR,LUA,interneuron,i,shared,,r
+M1,M1,motorneuron,m,pharynx,,
+M2L,M2,motorneuron,m,pharynx,,l
+M2R,M2,motorneuron,m,pharynx,,r
+M3L,M3,motorneuron,m,pharynx,,l
+M3R,M3,motorneuron,m,pharynx,,r
+M4,M4,motorneuron,m,pharynx,,
+M5,M5,motorneuron,m,pharynx,,
+MCL,MC,motorneuron,m,pharynx,,l
+MCML,MCM,interneuron,i,male,,l
+MCMR,MCM,interneuron,i,male,,r
+MCR,MC,motorneuron,m,pharynx,,r
+MI,MI,motorneuron,m,pharynx,,
+NSML,NSM,interneuron,i,pharynx,,l
+NSMR,NSM,interneuron,i,pharynx,,r
+OLLL,OLL,sensory,s,shared,,l
+OLLR,OLL,sensory,s,shared,,r
+OLQDL,OLQ,sensory,s,shared,d,l
+OLQDR,OLQ,sensory,s,shared,d,r
+OLQVL,OLQ,sensory,s,shared,v,l
+OLQVR,OLQ,sensory,s,shared,v,r
+PCAL,PCA,sensory neuron,s,male,,l
+PCAR,PCA,sensory neuron,s,male,,r
+PCBL,PCB,sensory neuron,s,male,,l
+PCBR,PCB,sensory neuron,s,male,,r
+PCCL,PCC,sensory neuron,s,male,,l
+PCCR,PCC,sensory neuron,s,male,,r
+PDA,PDA,motorneuron,m,shared,,
+PDB,PDB,motorneuron,m,shared,,
+PDC,PDC,interneuron,i,male,,
+PDEL,PDE,sensory,s,shared,,l
+PDER,PDE,sensory,s,shared,,r
+PGA,PGA,interneuron,i,male,,
+PHAL,PHA,sensory,s,shared,,l
+PHAR,PHA,sensory,s,shared,,r
+PHBL,PHB,sensory,s,shared,,l
+PHBR,PHB,sensory,s,shared,,r
+PHCL,PHC,sensory,s,shared,,l
+PHCR,PHC,sensory,s,shared,,r
+PHDL,PHD,sensory neuron,s,male,,l
+PHDR,PHD,sensory neuron,s,male,,r
+PLML,PLM,sensory,s,shared,,l
+PLMR,PLM,sensory,s,shared,,r
+PLNL,PLN,sensory,s,shared,,l
+PLNR,PLN,sensory,s,shared,,r
+PQR,PQR,sensory,s,shared,,
+PVCL,PVC,interneuron,i,shared,,l
+PVCR,PVC,interneuron,i,shared,,r
+PVDL,PVD,sensory,s,shared,,l
+PVDR,PVD,sensory,s,shared,,r
+PVM,PVM,sensory,s,shared,,
+PVNL,PVN,interneuron,i,shared,,l
+PVNR,PVN,interneuron,i,shared,,r
+PVPL,PVP,interneuron,i,shared,,l
+PVPR,PVP,interneuron,i,shared,,r
+PVQL,PVQ,interneuron,i,shared,,l
+PVQR,PVQ,interneuron,i,shared,,r
+PVR,PVR,interneuron,i,shared,,
+PVT,PVT,interneuron,i,shared,,
+PVV,PVV,interneuron,i,male,,
+PVWL,PVW,interneuron,i,shared,,l
+PVWR,PVW,interneuron,i,shared,,r
+PVX,PVX,interneuron,i,male,,
+PVY,PVY,interneuron,i,male,,
+PVZ,PVZ,interneuron,i,male,,
+R1AL,R1A,sensory neuron,s,male,,l
+R1AR,R1A,sensory neuron,s,male,,r
+R1BL,R1B,sensory neuron,s,male,,l
+R1BR,R1B,sensory neuron,s,male,,r
+R1stL,R1st,endorgan,u,male,,l
+R1stR,R1st,endorgan,u,male,,r
+R2AL,R2A,sensory neuron,s,male,,l
+R2AR,R2A,sensory neuron,s,male,,r
+R2BL,R2B,sensory neuron,s,male,,l
+R2BR,R2B,sensory neuron,s,male,,r
+R2stL,R2st,endorgan,u,male,,l
+R2stR,R2st,endorgan,u,male,,r
+R3AL,R3A,sensory neuron,s,male,,l
+R3AR,R3A,sensory neuron,s,male,,r
+R3BL,R3B,sensory neuron,s,male,,l
+R3BR,R3B,sensory neuron,s,male,,r
+R3stL,R3st,endorgan,u,male,,l
+R3stR,R3st,endorgan,u,male,,r
+R4AL,R4A,sensory neuron,s,male,,l
+R4AR,R4A,sensory neuron,s,male,,r
+R4BL,R4B,sensory neuron,s,male,,l
+R4BR,R4B,sensory neuron,s,male,,r
+R4stL,R4st,endorgan,u,male,,l
+R4stR,R4st,endorgan,u,male,,r
+R5AL,R5A,sensory neuron,s,male,,l
+R5AR,R5A,sensory neuron,s,male,,r
+R5BL,R5B,sensory neuron,s,male,,l
+R5BR,R5B,sensory neuron,s,male,,r
+R5stL,R5st,endorgan,u,male,,l
+R5stR,R5st,endorgan,u,male,,r
+R6AL,R6A,sensory neuron,s,male,,l
+R6AR,R6A,sensory neuron,s,male,,r
+R6BL,R6B,sensory neuron,s,male,,l
+R6BR,R6B,sensory neuron,s,male,,r
+R6stL,R6st,endorgan,u,male,,l
+R6stR,R6st,endorgan,u,male,,r
+R7AL,R7A,sensory neuron,s,male,,l
+R7AR,R7A,sensory neuron,s,male,,r
+R7BL,R7B,sensory neuron,s,male,,l
+R7BR,R7B,sensory neuron,s,male,,r
+R7stL,R7st,endorgan,u,male,,l
+R7stR,R7st,endorgan,u,male,,r
+R8AL,R8A,sensory neuron,s,male,,l
+R8AR,R8A,sensory neuron,s,male,,r
+R8BL,R8B,sensory neuron,s,male,,l
+R8BR,R8B,sensory neuron,s,male,,r
+R8stL,R8st,endorgan,u,male,,l
+R8stR,R8st,endorgan,u,male,,r
+R9AL,R9A,sensory neuron,s,male,,l
+R9AR,R9A,sensory neuron,s,male,,r
+R9BL,R9B,sensory neuron,s,male,,l
+R9BR,R9B,sensory neuron,s,male,,r
+R9stL,R9st,endorgan,u,male,,l
+R9stR,R9st,endorgan,u,male,,r
+RIAL,RIA,interneuron,i,shared,,l
+RIAR,RIA,interneuron,i,shared,,r
+RIBL,RIB,interneuron,i,shared,,l
+RIBR,RIB,interneuron,i,shared,,r
+RICL,RIC,interneuron,i,shared,,l
+RICR,RIC,interneuron,i,shared,,r
+RID,RID,interneuron,i,shared,,
+RIFL,RIF,interneuron,i,shared,,l
+RIFR,RIF,interneuron,i,shared,,r
+RIGL,RIG,interneuron,i,shared,,l
+RIGR,RIG,interneuron,i,shared,,r
+RIH,RIH,interneuron,i,shared,,
+RIML,RIM,interneuron,i,shared,,l
+RIMR,RIM,interneuron,i,shared,,r
+RIPL,RIP,interneuron,i,shared,,l
+RIPR,RIP,interneuron,i,shared,,r
+RIR,RIR,interneuron,i,shared,,
+RIS,RIS,interneuron,i,shared,,
+RIVL,RIV,motorneuron,m,shared,,l
+RIVR,RIV,motorneuron,m,shared,,r
+RMDDL,RMD,motorneuron,m,shared,d,l
+RMDDR,RMD,motorneuron,m,shared,d,r
+RMDL,RMD,motorneuron,m,shared,,l
+RMDR,RMD,motorneuron,m,shared,,r
+RMDVL,RMD,motorneuron,m,shared,v,l
+RMDVR,RMD,motorneuron,m,shared,v,r
+RMED,RME,motorneuron,m,shared,d,
+RMEL,RME,motorneuron,m,shared,,l
+RMER,RME,motorneuron,m,shared,,r
+RMEV,RME,motorneuron,m,shared,v,
+RMFL,RMF,interneuron,i,shared,,l
+RMFR,RMF,interneuron,i,shared,,r
+RMGL,RMG,interneuron,i,shared,,l
+RMGR,RMG,interneuron,i,shared,,r
+RMHL,RMH,motorneuron,m,shared,,l
+RMHR,RMH,motorneuron,m,shared,,r
+SAADL,SAA,interneuron,i,shared,d,l
+SAADR,SAA,interneuron,i,shared,d,r
+SAAVL,SAA,interneuron,i,shared,v,l
+SAAVR,SAA,interneuron,i,shared,v,r
+SABD,SAB,motorneuron,m,shared,d,
+SABVL,SAB,motorneuron,m,shared,v,l
+SABVR,SAB,motorneuron,m,shared,v,r
+SDQL,SDQ,sensory,s,shared,,l
+SDQR,SDQ,sensory,s,shared,,r
+SIADL,SIA,motorneuron,m,shared,d,l
+SIADR,SIA,motorneuron,m,shared,d,r
+SIAVL,SIA,motorneuron,m,shared,v,l
+SIAVR,SIA,motorneuron,m,shared,v,r
+SIBDL,SIB,motorneuron,m,shared,d,l
+SIBDR,SIB,motorneuron,m,shared,d,r
+SIBVL,SIB,motorneuron,m,shared,v,l
+SIBVR,SIB,motorneuron,m,shared,v,r
+SMBDL,SMB,motorneuron,m,shared,d,l
+SMBDR,SMB,motorneuron,m,shared,d,r
+SMBVL,SMB,motorneuron,m,shared,v,l
+SMBVR,SMB,motorneuron,m,shared,v,r
+SMDDL,SMD,motorneuron,m,shared,d,l
+SMDDR,SMD,motorneuron,m,shared,d,r
+SMDVL,SMD,motorneuron,m,shared,v,l
+SMDVR,SMD,motorneuron,m,shared,v,r
+SPCL,SPC,sensory neuron,s,male,,l
+SPCR,SPC,sensory neuron,s,male,,r
+SPDL,SPD,sensory neuron,s,male,,l
+SPDR,SPD,sensory neuron,s,male,,r
+SPVL,SPV,sensory neuron,s,male,,l
+SPVR,SPV,sensory neuron,s,male,,r
+URADL,URA,motorneuron,m,shared,d,l
+URADR,URA,motorneuron,m,shared,d,r
+URAVL,URA,motorneuron,m,shared,v,l
+URAVR,URA,motorneuron,m,shared,v,r
+URBL,URB,interneuron,i,shared,,l
+URBR,URB,interneuron,i,shared,,r
+URXL,URX,sensory,s,shared,,l
+URXR,URX,sensory,s,shared,,r
+URYDL,URY,sensory,s,shared,d,l
+URYDR,URY,sensory,s,shared,d,r
+URYVL,URY,sensory,s,shared,v,l
+URYVR,URY,sensory,s,shared,v,r
+VA01,VA,motorneuron,m,shared,,
+VA02,VA,motorneuron,m,shared,,
+VA03,VA,motorneuron,m,shared,,
+VA04,VA,motorneuron,m,shared,,
+VA05,VA,motorneuron,m,shared,,
+VA06,VA,motorneuron,m,shared,,
+VA07,VA,motorneuron,m,shared,,
+VA08,VA,motorneuron,m,shared,,
+VA09,VA,motorneuron,m,shared,,
+VA10,VA,motorneuron,m,shared,,
+VA11,VA,motorneuron,m,shared,,
+VA12,VA,motorneuron,m,shared,,
+VB01,VB,motorneuron,m,shared,,
+VB02,VB,motorneuron,m,shared,,
+VB03,VB,motorneuron,m,shared,,
+VB04,VB,motorneuron,m,shared,,
+VB05,VB,motorneuron,m,shared,,
+VB06,VB,motorneuron,m,shared,,
+VB07,VB,motorneuron,m,shared,,
+VB08,VB,motorneuron,m,shared,,
+VB09,VB,motorneuron,m,shared,,
+VB10,VB,motorneuron,m,shared,,
+VB11,VB,motorneuron,m,shared,,
+VC01,VC,motorneuron,m,hermaphrodite,,
+VC02,VC,motorneuron,m,hermaphrodite,,
+VC03,VC,motorneuron,m,hermaphrodite,,
+VC04,VC,motorneuron,m,hermaphrodite,,
+VC05,VC,motorneuron,m,hermaphrodite,,
+VC06,VC,motorneuron,m,hermaphrodite,,
+VD01,VD,motorneuron,m,shared,,
+VD02,VD,motorneuron,m,shared,,
+VD03,VD,motorneuron,m,shared,,
+VD04,VD,motorneuron,m,shared,,
+VD05,VD,motorneuron,m,shared,,
+VD06,VD,motorneuron,m,shared,,
+VD07,VD,motorneuron,m,shared,,
+VD08,VD,motorneuron,m,shared,,
+VD09,VD,motorneuron,m,shared,,
+VD10,VD,motorneuron,m,shared,,
+VD11,VD,motorneuron,m,shared,,
+VD12,VD,motorneuron,m,shared,,
+VD13,VD,motorneuron,m,shared,,
+ailL,ail,muscle,b,male,,l
+ailR,ail,muscle,b,male,,r
+aobL,aob,muscle,b,male,,l
+aobR,aob,muscle,b,male,,r
+bm,bm,basement membrane,u,pharynx,,
+cdlL,cdl,muscle,b,male,,l
+cdlR,cdl,muscle,b,male,,r
+dBWML1,BWM1,muscle,b,shared,d,l
+dBWML10,BWM10,muscle,b,shared,d,l
+dBWML11,BWM11,muscle,b,shared,d,l
+dBWML12,BWM12,muscle,b,shared,d,l
+dBWML13,BWM13,muscle,b,shared,d,l
+dBWML14,BWM14,muscle,b,shared,d,l
+dBWML15,BWM15,muscle,b,shared,d,l
+dBWML16,BWM16,muscle,b,shared,d,l
+dBWML17,BWM17,muscle,b,shared,d,l
+dBWML18,BWM18,muscle,b,shared,d,l
+dBWML19,BWM19,muscle,b,shared,d,l
+dBWML2,BWM2,muscle,b,shared,d,l
+dBWML20,BWM20,muscle,b,shared,d,l
+dBWML21,BWM21,muscle,b,shared,d,l
+dBWML22,BWM22,muscle,b,shared,d,l
+dBWML23,BWM23,muscle,b,shared,d,l
+dBWML24,BWM24,muscle,b,shared,d,l
+dBWML3,BWM3,muscle,b,shared,d,l
+dBWML4,BWM4,muscle,b,shared,d,l
+dBWML5,BWM5,muscle,b,shared,d,l
+dBWML6,BWM6,muscle,b,shared,d,l
+dBWML7,BWM7,muscle,b,shared,d,l
+dBWML8,BWM8,muscle,b,shared,d,l
+dBWML9,BWM9,muscle,b,shared,d,l
+dBWMR1,BWM1,muscle,b,shared,d,r
+dBWMR10,BWM10,muscle,b,shared,d,r
+dBWMR11,BWM11,muscle,b,shared,d,r
+dBWMR12,BWM12,muscle,b,shared,d,r
+dBWMR13,BWM13,muscle,b,shared,d,r
+dBWMR14,BWM14,muscle,b,shared,d,r
+dBWMR15,BWM15,muscle,b,shared,d,r
+dBWMR16,BWM16,muscle,b,shared,d,r
+dBWMR17,BWM17,muscle,b,shared,d,r
+dBWMR18,BWM18,muscle,b,shared,d,r
+dBWMR19,BWM19,muscle,b,shared,d,r
+dBWMR2,BWM2,muscle,b,shared,d,r
+dBWMR20,BWM20,muscle,b,shared,d,r
+dBWMR21,BWM21,muscle,b,shared,d,r
+dBWMR22,BWM22,muscle,b,shared,d,r
+dBWMR23,BWM23,muscle,b,shared,d,r
+dBWMR24,BWM24,muscle,b,shared,d,r
+dBWMR3,BWM3,muscle,b,shared,d,r
+dBWMR4,BWM4,muscle,b,shared,d,r
+dBWMR5,BWM5,muscle,b,shared,d,r
+dBWMR6,BWM6,muscle,b,shared,d,r
+dBWMR7,BWM7,muscle,b,shared,d,r
+dBWMR8,BWM8,muscle,b,shared,d,r
+dBWMR9,BWM9,muscle,b,shared,d,r
+dglL1,dgl1,muscle,b,male,,l
+dglL2,dgl2,muscle,b,male,,l
+dglL3,dgl3,muscle,b,male,,l
+dglL4,dgl4,muscle,b,male,,l
+dglL5,dgl5,muscle,b,male,,l
+dglL6,dgl6,muscle,b,male,,l
+dglL7,dgl7,muscle,b,male,,l
+dglR1,dgl1,muscle,b,male,,r
+dglR2,dgl2,muscle,b,male,,r
+dglR3,dgl3,muscle,b,male,,r
+dglR4,dgl4,muscle,b,male,,r
+dglR5,dgl5,muscle,b,male,,r
+dglR6,dgl6,muscle,b,male,,r
+dglR7,dgl7,muscle,b,male,,r
+dglR8,dgl8,muscle,b,male,,r
+dspL,dsp,muscle,b,male,,l
+dspR,dsp,muscle,b,male,,r
+dsrL,dsr,muscle,b,male,,l
+dsrR,dsr,muscle,b,male,,r
+e1D,e1,epithelium,u,pharynx,d,
+e1VL,e1,epithelium,u,pharynx,v,l
+e1VR,e1,epithelium,u,pharynx,v,r
+e2D,e2,epithelium,u,pharynx,d,
+e2DL,e2,epithelium,u,pharynx,d,l
+e2DR,e2,epithelium,u,pharynx,d,r
+e2V,e2,epithelium,u,pharynx,v,
+e2VL,e2,epithelium,u,pharynx,v,l
+e2VR,e2,epithelium,u,pharynx,v,r
+e3D,e3,epithelium,u,pharynx,d,
+e3VL,e3,epithelium,u,pharynx,v,l
+e3VR,e3,epithelium,u,pharynx,v,r
+exc_gl,exc_gl,excretory,u,shared,,
+exc_cell,exc_cell,excretory,u,shared,,
+g1AL,g1,glial cell,u,pharynx,,
+g1AR,g1,glial cell,u,pharynx,,
+g1P,g1,glial cell,u,pharynx,,
+g1_unspecified,g1,glial cell,u,pharynx,,
+g2_unspecified,g2,glial cell,u,pharynx,,
+g2L,g2,glial cell,u,pharynx,,l
+g2R,g2,glial cell,u,pharynx,,r
+gecL,gec,muscle,b,male,,l
+gecR,gec,muscle,b,male,,r
+gonad,gonad,endorgan,u,male,,
+grtL,grt,muscle,b,male,,l
+grtR,grt,muscle,b,male,,r
+hmc,hmc,head mesodermal cell,u,shared,,
+hyp,hyp,hypodermis,u,shared,,
+int,int,intestine,u,shared,,
+mc1dl,mc1,marginal cell,u,pharynx,d,l
+mc1dr,mc1,marginal cell,u,pharynx,d,r
+mc1v,mc1,marginal cell,u,pharynx,v,
+mc2_unspecified,mc2,marginal cell,u,pharynx,,
+mc2dl,mc2,marginal cell,u,pharynx,d,l
+mc2dr,mc2,marginal cell,u,pharynx,d,r
+mc2v,mc2,marginal cell,u,pharynx,v,
+mc3_unspecified,mc3,marginal cell,u,pharynx,,
+mc3dl,mc3,marginal cell,u,pharynx,d,l
+mc3dr,mc3,marginal cell,u,pharynx,d,r
+mc3v,mc3,marginal cell,u,pharynx,v,
+mu_anal,mu_anal,muscle,b,shared,,
+mu_intL,mu_int,muscle,b,shared,,l
+mu_intR,mu_int,muscle,b,shared,,r
+mu_sphincter,mu_sphincter,muscle,b,shared,,
+pilL,pil,muscle,b,male,,l
+pilR,pil,muscle,b,male,,r
+pm1,pm1,muscle (myoepithelium),b,pharynx,,
+pm2d,pm2,muscle (myoepithelium),b,pharynx,d,
+pm2vl,pm2,muscle (myoepithelium),b,pharynx,v,l
+pm2vr,pm2,muscle (myoepithelium),b,pharynx,v,r
+pm3d,pm3,muscle (myoepithelium),b,pharynx,d,
+pm3vl,pm3,muscle (myoepithelium),b,pharynx,v,l
+pm3vr,pm3,muscle (myoepithelium),b,pharynx,v,r
+pm4d,pm4,muscle (myoepithelium),b,pharynx,d,
+pm4vl,pm4,muscle (myoepithelium),b,pharynx,v,l
+pm4vr,pm4,muscle (myoepithelium),b,pharynx,v,r
+pm5d,pm5,muscle (myoepithelium),b,pharynx,d,
+pm5vl,pm5,muscle (myoepithelium),b,pharynx,v,l
+pm5vr,pm5,muscle (myoepithelium),b,pharynx,v,r
+pm6d,pm6,muscle (myoepithelium),b,pharynx,d,
+pm6vl,pm6,muscle (myoepithelium),b,pharynx,v,l
+pm6vr,pm6,muscle (myoepithelium),b,pharynx,v,r
+pm7d,pm7,muscle (myoepithelium),b,pharynx,d,
+pm7vl,pm7,muscle (myoepithelium),b,pharynx,v,l
+pm7vr,pm7,muscle (myoepithelium),b,pharynx,v,r
+pm8,pm8,muscle (myoepithelium),b,pharynx,,
+pm2_unspecified,pm2,muscle (myoepithelium),b,pharynx,,
+pm3_unspecified,pm3,muscle (myoepithelium),b,pharynx,,
+pm4_unspecified,pm4,muscle (myoepithelium),b,pharynx,,
+pm5_unspecified,pm5,muscle (myoepithelium),b,pharynx,,
+pm6_unspecified,pm6,muscle (myoepithelium),b,pharynx,,
+pm7_unspecified,pm7,muscle (myoepithelium),b,pharynx,,
+pobL,pob,muscle,b,male,,l
+pobR,pob,muscle,b,male,,r
+polL,pol,muscle,b,male,,l
+polR,pol,muscle,b,male,,r
+um1aL,um1a,sex muscle,b,hermaphrodite,,l
+um1aR,um1a,sex muscle,b,hermaphrodite,,r
+um1pL,um1p,sex muscle,b,hermaphrodite,,l
+um1pR,um1p,sex muscle,b,hermaphrodite,,r
+um2aL,um2a,sex muscle,b,hermaphrodite,,l
+um2aR,um2a,sex muscle,b,hermaphrodite,,r
+um2pL,um2p,sex muscle,b,hermaphrodite,,l
+um2pR,um2p,sex muscle,b,hermaphrodite,,r
+vBWML1,BWM1,muscle,b,shared,v,l
+vBWML10,BWM10,muscle,b,shared,v,l
+vBWML11,BWM11,muscle,b,shared,v,l
+vBWML12,BWM12,muscle,b,shared,v,l
+vBWML13,BWM13,muscle,b,shared,v,l
+vBWML14,BWM14,muscle,b,shared,v,l
+vBWML15,BWM15,muscle,b,shared,v,l
+vBWML16,BWM16,muscle,b,shared,v,l
+vBWML17,BWM17,muscle,b,shared,v,l
+vBWML18,BWM18,muscle,b,shared,v,l
+vBWML19,BWM19,muscle,b,shared,v,l
+vBWML2,BWM2,muscle,b,shared,v,l
+vBWML20,BWM20,muscle,b,shared,v,l
+vBWML21,BWM21,muscle,b,shared,v,l
+vBWML22,BWM22,muscle,b,shared,v,l
+vBWML23,BWM23,muscle,b,shared,v,l
+vBWML3,BWM3,muscle,b,shared,v,l
+vBWML4,BWM4,muscle,b,shared,v,l
+vBWML5,BWM5,muscle,b,shared,v,l
+vBWML6,BWM6,muscle,b,shared,v,l
+vBWML7,BWM7,muscle,b,shared,v,l
+vBWML8,BWM8,muscle,b,shared,v,l
+vBWML9,BWM9,muscle,b,shared,v,l
+vBWMR1,BWM1,muscle,b,shared,v,r
+vBWMR10,BWM10,muscle,b,shared,v,r
+vBWMR11,BWM11,muscle,b,shared,v,r
+vBWMR12,BWM12,muscle,b,shared,v,r
+vBWMR13,BWM13,muscle,b,shared,v,r
+vBWMR14,BWM14,muscle,b,shared,v,r
+vBWMR15,BWM15,muscle,b,shared,v,r
+vBWMR16,BWM16,muscle,b,shared,v,r
+vBWMR17,BWM17,muscle,b,shared,v,r
+vBWMR18,BWM18,muscle,b,shared,v,r
+vBWMR19,BWM19,muscle,b,shared,v,r
+vBWMR2,BWM2,muscle,b,shared,v,r
+vBWMR20,BWM20,muscle,b,shared,v,r
+vBWMR21,BWM21,muscle,b,shared,v,r
+vBWMR22,BWM22,muscle,b,shared,v,r
+vBWMR23,BWM23,muscle,b,shared,v,r
+vBWMR24,BWM24,muscle,b,shared,v,r
+vBWMR3,BWM3,muscle,b,shared,v,r
+vBWMR4,BWM4,muscle,b,shared,v,r
+vBWMR5,BWM5,muscle,b,shared,v,r
+vBWMR6,BWM6,muscle,b,shared,v,r
+vBWMR7,BWM7,muscle,b,shared,v,r
+vBWMR8,BWM8,muscle,b,shared,v,r
+vBWMR9,BWM9,muscle,b,shared,v,r
+vm1aL,vm1a,sex muscle,b,hermaphrodite,,l
+vm1aR,vm1a,sex muscle,b,hermaphrodite,,r
+vm1pL,vm1p,sex muscle,b,hermaphrodite,,l
+vm1pR,vm1p,sex muscle,b,hermaphrodite,,r
+vm2aL ,vm2a,sex muscle,b,hermaphrodite,,
+vm2aR,vm2a,sex muscle,b,hermaphrodite,,r
+vm2pL,vm2p,sex muscle,b,hermaphrodite,,l
+vm2pR,vm2p,sex muscle,b,hermaphrodite,,r
+vspL,vsp,muscle,b,male,,l
+vspR,vsp,muscle,b,male,,r
+vsrL,vsr,muscle,b,male,,l
+vsrR,vsr,muscle,b,male,,r
+LegacyBodyWallMuscles,LegacyBodyWallMuscles,muscle,b,shared,,
+DefecationMuscles,DefecationMuscles,muscle,b,shared,,
+R1shL,R1sh,endorgan,u,male,,l
+R1shR,R1sh,endorgan,u,male,,r
+R2shL,R2sh,endorgan,u,male,,l
+R2shR,R2sh,endorgan,u,male,,r
+R3shL,R3sh,endorgan,u,male,,l
+R3shR,R3sh,endorgan,u,male,,r
+R4shL,R4sh,endorgan,u,male,,l
+R4shR,R4sh,endorgan,u,male,,r
+R5shL,R5sh,endorgan,u,male,,l
+R5shR,R5sh,endorgan,u,male,,r
+R6shL,R6sh,endorgan,u,male,,l
+R6shR,R6sh,endorgan,u,male,,r
+R7shL,R7sh,endorgan,u,male,,l
+R7shR,R7sh,endorgan,u,male,,r
+R8shL,R8sh,endorgan,u,male,,l
+R8shR,R8sh,endorgan,u,male,,r
+R9shL,R9sh,endorgan,u,male,,l
+R9shR,R9sh,endorgan,u,male,,r
