@@ -1,0 +1,20 @@
+{
+    "common": [
+        {"id": "neuropal", "name": "NeuroPAL", "color_background": "#0d6efd", "description": "Datasets with NeuroPAL (i.e. identities of the recorded neurons are available)"}
+    ],
+
+    "atanas_kim_2023": [
+        {"id": "baseline", "name": "Baseline", "color_background": "rgb(125,125,125)", "description": "Baseline dataset"},
+        {"id": "heat", "name": "Heat", "color_background": "#dc3545", "description": "Heat stimulation experiment data"},
+        {"id": "gfp", "name": "GFP", "color_background": "#198754", "description": "Control data with the GFP expression strain"}
+    ],
+
+    "dag_nwabudike_kang_2023": [
+        {"id": "patchEncounter", "name": "Patch", "color_background": "#dc3545", "description": "Starved worm started off in a foodless zone and encountered a food patch"},
+        {"id": "reFed", "name": "Re-fed", "color_background": "rgb(200,200,0)", "description": "Starved worm on a dense food patch"}
+    ],
+    
+    "pradhan_madan_2024": [
+        {"id": "sickness", "name": "Sickness", "color_background": "black", "description": "PA14-infected worm alternated between active and quiscent bouts"}
+    ]
+}
