@@ -1,0 +1,9 @@
+filename,checksum,uid,θh_pos_is_ventral,label,type,event
+1_2023-03-08-03-data.h5,77a82e085a874f7403fba4bc7ceeca1b8f3ae512f65966e625332a02b3d65fcc,2023-03-08-03,true,true,"neuropal,sickness",
+2_2023-03-16-01-data.h5,d63d698835b77a495f5995990caeeb41f3e093e683484cb7d886acbcb966b2b8,2023-03-16-01,true,true,"neuropal,sickness",
+3_2023-04-06-01-data.h5,30706ed3d43dbf829fa7b21611d62b777242e5073e3d5c16072de42bf3172769,2023-04-06-01,false,true,"neuropal,sickness",
+4_2023-04-07-22-data.h5,462cca6162d1f8652eb15755e6e35ae4a66407b99d0ef3013208b28c5726e9be,2023-04-07-22,false,true,"neuropal,sickness",
+5_2023-04-20-02-data.h5,d45223b952381a48eb631a4a9bb9b1111accb85506de280205d619662c3f7c57,2023-04-20-02,true,true,"neuropal,sickness",
+6_2023-04-25-04-data.h5,cfb2ac1fd846b4b9791ba28f0fd679e963e13d6ac9d1747a93ff246ccf1484d4,2023-04-25-04,false,true,"neuropal,sickness",
+7_2023-05-05-22-data.h5,2ba4afaf23ddff8f0540d2ad34110770b1d25dbded9bc674a334f561536b4534,2023-05-05-22,false,true,"neuropal,sickness",
+8_2023-05-10-16-data.h5,70420da70ed4869439b3f8354369a8e1d980d7142cfd18e7e407610d35820a88,2023-05-10-16,false,true,"neuropal,sickness",
