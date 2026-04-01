@@ -1,4 +1,4 @@
-filename,checksum,uid,θh_pos_is_ventral,label,type,event
+filename,checksum,uid,θh_pos_is_ventral,label,type,event,t_range
 2021-05-26-07-data.h5,c47b0712e633ec5874997aa3087425dc7ac6b8d42a4b4f98b2a1245794073a03,2021-05-26-07,true,false,baseline,
 2021-06-11-01-data.h5,3b10e08cb7068aafa784cf7f482015d7405d3e38079847b9e83d6db11699f1d8,2021-06-11-01,true,false,baseline,
 2021-08-04-06-data.h5,5b3123d267ec12e3629feb8d3245e9e4cd040b317e90b9f54dd20aeec1e52cc2,2021-08-04-06,false,false,baseline,

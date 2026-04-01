@@ -1,4 +1,4 @@
-filename,checksum,uid,θh_pos_is_ventral,label,type,event
+filename,checksum,uid,θh_pos_is_ventral,label,type,event,t_range
 2022-01-16-01-data.h5,baf08b702bfcc1740c14a90960452ffd463c91c50a58a5b10cf545e2748b4d4d,2022-01-16-01,true,false,patchEncounter,time_food_encounter=[325]
 2022-01-25-01-data.h5,df4483d60ee469841cc94407deea662d9d3277ae6b2853759b10d2ab4573ddf2,2022-01-25-01,true,false,patchEncounter,time_food_encounter=[310]
 2022-03-17-01-data.h5,2e02df691b4fea5c0a53d503129478c00212a8af63badd6055433e8455290cab,2022-03-17-01,true,false,patchEncounter,time_food_encounter=[1085]
