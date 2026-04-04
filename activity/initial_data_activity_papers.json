@@ -1,5 +1,5 @@
 [
     {"paper_id": "atanas_kim_2023", "title_full": "Brain-wide representations of behavior spanning multiple timescales and states in C. elegans", "title_short": "Atanas & Kim et al., 2023", "neuropal_label": true, "encoding_data": true, "repository": {"type": "zenodo", "record_id": "19388374"}},
-    {"paper_id": "dag_nwabudike_kang_2023", "title_full": "Dissecting the functional organization of the C. elegans serotonergic system at whole-brain scale", "title_short": "Dag, Nwabudike & Kang et al., 2023",  "neuropal_label": true, "encoding_data": false},
+    {"paper_id": "dag_nwabudike_kang_2023", "title_full": "Dissecting the functional organization of the C. elegans serotonergic system at whole-brain scale", "title_short": "Dag, Nwabudike & Kang et al., 2023",  "neuropal_label": true, "encoding_data": false, "repository": {"type": "zenodo", "record_id": "19414638"}},
     {"paper_id": "pradhan_madan_2024", "title_full": "Pathogen infection induces sickness behaviors by recruiting neuromodulatory systems linked to stress and satiety in C. elegans", "title_short": "Pradhan & Madan et al., 2024",  "neuropal_label": true, "encoding_data": false}
 ]
