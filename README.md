@@ -6,7 +6,17 @@ Pick a unique `paper_id` e.g. `atanas_kim_2023` and `dag_nwabudike_kang_2023`
 #### Paper data
 Add an entry in `activity/papers.json` e.g.:
 ```json
-{"paper_id": "atanas_kim_2023", "title_full": "Brain-wide representations of behavior spanning multiple timescales and states in C. elegans", "title_short": "Atanas & Kim et al., 2023", "neuropal_label": true, "encoding_data": true, "repository": {"type": "zenodo", "record_id": "19388374"}},
+{
+  "paper_id": "atanas_kim_2023",
+  "title_full": "Brain-wide representations of behavior spanning multiple timescales and states in C. elegans",
+  "title_short": "Atanas & Kim et al., 2023",
+  "neuropal_label": true,
+  "encoding_data": true,
+  "repository": {
+    "type": "zenodo",
+    "record_id": "19388374"
+  }
+}
 ```
 - paper_id: unique paper id
 - title_full: full title
@@ -19,11 +29,28 @@ Add dataset types information entry for the paper, using the same `paper_id`. Co
 
 Add the entry in `activity/dataset_types.json` e.g.:
 ```json
-    "atanas_kim_2023": [
-        {"id": "baseline", "name": "Baseline", "color_background": "rgb(125,125,125)", "description": "Baseline dataset"},
-        {"id": "heat", "name": "Heat", "color_background": "#dc3545", "description": "Heat stimulation experiment data"},
-        {"id": "gfp", "name": "GFP", "color_background": "#198754", "description": "Control data with the GFP expression strain"}
-    ]
+{
+  "atanas_kim_2023": [
+    {
+      "id": "baseline",
+      "name": "Baseline",
+      "color_background": "rgb(125,125,125)",
+      "description": "Baseline dataset"
+    },
+    {
+      "id": "heat",
+      "name": "Heat",
+      "color_background": "#dc3545",
+      "description": "Heat stimulation experiment data"
+    },
+    {
+      "id": "gfp",
+      "name": "GFP",
+      "color_background": "#198754",
+      "description": "Control data with the GFP expression strain"
+    }
+  ]
+}
 ```
 
 ### New datasets
