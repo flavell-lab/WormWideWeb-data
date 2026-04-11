@@ -27,6 +27,9 @@
     "title_short": "Pradhan & Madan et al., 2024",
     "neuropal_label": true,
     "encoding_data": false,
-    "skip": true
+    "repository": {
+      "type": "zenodo",
+      "record_id": "19511989"
+    }
   }
 ]
