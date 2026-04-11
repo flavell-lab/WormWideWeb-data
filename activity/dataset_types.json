@@ -14,7 +14,7 @@
         {"id": "reFed", "name": "Re-fed", "color_background": "rgb(200,200,0)", "description": "Starved worm on a dense food patch"}
     ],
     
-    "pradhan_madan_2024": [
+    "pradhan_madan_2025": [
         {"id": "sickness", "name": "Sickness", "color_background": "black", "description": "PA14-infected worm alternated between active and quiscent bouts"}
     ]
 }
